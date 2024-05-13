@@ -11,7 +11,7 @@ jobs:
   - name: "Checkout"
     uses: "actions/checkout@v2"
     with:
-     token: ${{ secrets.NESTMICROSERVIES }
+     token: ${{ secrets.NESTMICROSERVIES }}
   
   - name: "Use NodeJS 20"
     uses: "actions/checkout@v4"
