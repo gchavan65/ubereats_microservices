@@ -1,0 +1,144 @@
+{
+  "version": "6.0",
+  "nxVersion": "18.3.4",
+  "deps": {},
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "drivers/README.md",
+        "hash": "15298181689890813452"
+      },
+      {
+        "file": "drivers/__tests__/drivers.test.js",
+        "hash": "18213677343480101546"
+      },
+      {
+        "file": "drivers/lib/drivers.js",
+        "hash": "2907203725204253400"
+      },
+      {
+        "file": "drivers/package.json",
+        "hash": "16627901833284964319"
+      },
+      {
+        "file": "restaurant-dashboard/README.md",
+        "hash": "10039480498148889528"
+      },
+      {
+        "file": "restaurant-dashboard/__tests__/restaurant-dashboard.test.js",
+        "hash": "228307173222806591"
+      },
+      {
+        "file": "restaurant-dashboard/lib/restaurant-dashboard.js",
+        "hash": "4173324704686750946"
+      },
+      {
+        "file": "restaurant-dashboard/package.json",
+        "hash": "7768949442086277717"
+      },
+      {
+        "file": "uber-eats/README.md",
+        "hash": "18299418248513998536"
+      },
+      {
+        "file": "uber-eats/package.json",
+        "hash": "13272818150597499139"
+      },
+      {
+        "file": "uber-eats/uber-eats/.gitignore",
+        "hash": "13026128808168725454"
+      },
+      {
+        "file": "uber-eats/uber-eats/.nvmrc",
+        "hash": "12187062698385358942"
+      },
+      {
+        "file": "uber-eats/uber-eats/README.md",
+        "hash": "15460296164805975003"
+      },
+      {
+        "file": "uber-eats/uber-eats/app/globals.css",
+        "hash": "3730975293417649933"
+      },
+      {
+        "file": "uber-eats/uber-eats/components.json",
+        "hash": "14512040700744223436"
+      },
+      {
+        "file": "uber-eats/uber-eats/lib/posts.ts",
+        "hash": "14034505779527194755"
+      },
+      {
+        "file": "uber-eats/uber-eats/next-env.d.ts",
+        "hash": "12460608900625374451"
+      },
+      {
+        "file": "uber-eats/uber-eats/package-lock.json",
+        "hash": "15097260874413430630"
+      },
+      {
+        "file": "uber-eats/uber-eats/package.json",
+        "hash": "8298027061477418376"
+      },
+      {
+        "file": "uber-eats/uber-eats/pages/_app.tsx",
+        "hash": "13051135145113847704"
+      },
+      {
+        "file": "uber-eats/uber-eats/pages/api/hello.ts",
+        "hash": "9379008477222324910"
+      },
+      {
+        "file": "uber-eats/uber-eats/pages/index.tsx",
+        "hash": "6119552613775577059"
+      },
+      {
+        "file": "uber-eats/uber-eats/pages/login.tsx",
+        "hash": "13285052144243667099"
+      },
+      {
+        "file": "uber-eats/uber-eats/pages/signup.tsx",
+        "hash": "3695458205254310356"
+      },
+      {
+        "file": "uber-eats/uber-eats/postcss.config.js",
+        "hash": "2397596835567280681"
+      },
+      {
+        "file": "uber-eats/uber-eats/posts/pre-rendering.md",
+        "hash": "7772245677922216135"
+      },
+      {
+        "file": "uber-eats/uber-eats/posts/ssg-ssr.md",
+        "hash": "5451581515520394889"
+      },
+      {
+        "file": "uber-eats/uber-eats/public/favicon.ico",
+        "hash": "12793503388389868665"
+      },
+      {
+        "file": "uber-eats/uber-eats/public/images/profile.jpg",
+        "hash": "4095293268621681552"
+      },
+      {
+        "file": "uber-eats/uber-eats/styles/global.css",
+        "hash": "14330543334643252435"
+      },
+      {
+        "file": "uber-eats/uber-eats/tailwind.config.js",
+        "hash": "5863748433160104399"
+      },
+      {
+        "file": "uber-eats/uber-eats/tsconfig.json",
+        "hash": "10821001199212774815"
+      }
+    ]
+  }
+}

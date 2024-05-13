@@ -1,0 +1,26 @@
+{
+  "name": "uber-eats",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Gaurav Ashok Chavhan <87317652+gchavan65@users.noreply.github.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/uber-eats.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "scripts": {
+    "bootstrap": "lerna exec npm i",
+    "bootstrap:ci": "lerna exec npm ci ----ignore-scripts",
+    "build": "lerna run build",
+    "test": "lerna run test",
+    "clean": "lerna run clean"
+  }
+}
