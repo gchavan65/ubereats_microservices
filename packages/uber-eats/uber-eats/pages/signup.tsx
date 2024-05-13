@@ -7,7 +7,7 @@ type Inputs = {
 }
 
 export enum Roles {
-  'admin'='admin'
+  'admin'='admin',
   'user'='user'
 }
 export default function Signup(){
