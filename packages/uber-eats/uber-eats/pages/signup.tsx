@@ -10,6 +10,7 @@ export enum Roles {
   'admin'='admin',
   'user'='user'
 }
+
 export default function Signup(){
     const {
         register,
